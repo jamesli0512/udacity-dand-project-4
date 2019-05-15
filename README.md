@@ -4,8 +4,8 @@ Udacity Data Wrangling Project WeRateDogs
 Project Details
 Tasks in this project are as follows:
 
-<li>I. Data wrangling, which consists of:</li>
-    <li>1. Gathering data (downloadable file)</li>
+*I. Data wrangling, which consists of:
+    *1. Gathering data (downloadable file)
     <li>2. Assessing data</li>
     <li>3. Cleaning data</li>
 
