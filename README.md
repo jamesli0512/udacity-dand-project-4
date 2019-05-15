@@ -1,7 +1,7 @@
 # udacity-dand-project-4
 Udacity Data Wrangling Project WeRateDogs
 
-Project Details
+Project Details:<br>
 Tasks in this project are as follows:
 <ul>
 <li>I. Data wrangling, which consists of:</li>
