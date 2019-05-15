@@ -5,7 +5,7 @@ Project Details
 Tasks in this project are as follows:
 
 <li>I. Data wrangling, which consists of:</li>
-    <ol><li>1. Gathering data (downloadable file)</li>
+    <ol><li>1. Gathering data (downloadable file)</li></ol>
     <li>2. Assessing data</li>
     <li>3. Cleaning data</li>
 
