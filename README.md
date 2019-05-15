@@ -6,11 +6,11 @@ Tasks in this project are as follows:
 
 <li>Data wrangling, which consists of:
 
-<li><li>Gathering data (downloadable file)
+  <li>Gathering data (downloadable file)
 
-<li><li>Assessing data
+  <li>Assessing data
 
-<li><li>Cleaning data
+  <li>Cleaning data
 
 <li>Storing, analyzing, and visualizing wrangled data
 
