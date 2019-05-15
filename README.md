@@ -6,11 +6,11 @@ Tasks in this project are as follows:
 
 <li>Data wrangling, which consists of:
 
-<br><li>Gathering data (downloadable file)
+*Tabspace*<li>Gathering data (downloadable file)
 
-<br><li>Assessing data
+*Tabspace*<li>Assessing data
 
-<br><li>Cleaning data
+*Tabspace*<li>Cleaning data
 
 <li>Storing, analyzing, and visualizing wrangled data
 
