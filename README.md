@@ -8,9 +8,9 @@ Tasks in this project are as follows:
 
     Gathering data (downloadable file)
 
-    <li>Assessing data
+    Assessing data
 
-    <li>Cleaning data
+    Cleaning data
 
 <li>Storing, analyzing, and visualizing wrangled data
 
